@@ -1,3 +1,5 @@
 class Dog
-  name = "Fido"
+  
 end
+
+"Fido" = Dog.new
